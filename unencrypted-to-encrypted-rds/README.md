@@ -1,0 +1,1 @@
+The scripts in this folder were used for different steps involved in the process of converting an unencrypted RDS database instance into encrypted
