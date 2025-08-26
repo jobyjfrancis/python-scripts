@@ -1,2 +1,1 @@
-# python-scripts
-Python scripts
+This repository would contain Python scripts that I have created for different purposes - work related or personal. The scripts would be put in different folders.
